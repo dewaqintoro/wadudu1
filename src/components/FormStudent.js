@@ -8,7 +8,7 @@ export default class FormStudents extends Component {
 				// untuk menampilkan list nama dibawah memakai state
 				this.state = {
 					students: [{
-						name: 'Dewa QIntoro', age: 10
+						name: 'Dewa QIntoro', age: 12
 					}],
 					currentStudentName: ''
 				}
